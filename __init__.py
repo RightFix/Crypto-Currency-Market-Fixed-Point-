@@ -6,17 +6,17 @@ from pyramid.config import Configurator
 from pyramid.response import Response
 from pyramid.view import view_config
 
-@view_config(route_name='home', renderer='templates/home.pt')
+@view_config(route_name='home', renderer='template/home.pt')
 def home_view(request):
   
     return {'page_title': 'home'}
 
-@view_config(route_name='fp', renderer='templates/fp.pt')
+@view_config(route_name='fp', renderer='template/fp.pt')
 def about_view(request):
     
     return {'page_title': 'fp'}
 
-@view_config(route_name='about', renderer='templates/about.pt')
+@view_config(route_name='about', renderer='template/about.pt')
 def contact_view(request):
   
     return {'page_title': 'about'}
