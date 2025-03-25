@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>${page_title}</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <h1>About</h1>
+    <a href="/">Home</a> | <a href="/fp">Fixed Points</a>
+    <p>Get in touch with us.</p>
+</body>
+</html>
