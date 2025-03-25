@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>${page_title}</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <h1>Fixed Points</h1>
+    <a href="/">Home</a> | <a href="/about">About</a>
+    <h2>Last 20 Orders</h2><hr/>
+    
+    <p>
+    </p>
+  
+</body>
+</html>
