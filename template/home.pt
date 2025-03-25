@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>${page_title}</title>
+    <link rel="stylesheet" href="/static/style.css"> </head>
+<body>
+    <h1>Welcome to Right Online Trading Bot!</h1>
+    <a href="/fp">Fixed Pointss</a> | <a href="/about">About</a>
+    <p>This is the content of the home page.</p>
+</body>
+</html>
